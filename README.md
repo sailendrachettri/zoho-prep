@@ -1,5 +1,13 @@
 # zoho-prep
 
-## Basic question
+## Articles to read
+1. [GFG Article](https://www.geeksforgeeks.org/zoho-interview-set-3-campus/)
+
+## Basic questions
 1. [Run Length Encoding](https://www.geeksforgeeks.org/problems/run-length-encoding/1)
 2. [Bitonic Generator Sort](https://www.geeksforgeeks.org/problems/bitonic-generator-sort3343/1)
+3. [Check for subsequence](https://www.geeksforgeeks.org/problems/check-for-subsequence4930/1)
+
+
+# Hard questions
+1. [Merge Without Extra Space](https://www.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1)
