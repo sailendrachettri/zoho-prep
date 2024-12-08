@@ -12,7 +12,8 @@
 
 
 ## Medium questions
-1. [48. Rotate Image](https://leetcode.com/problems/rotate-image/description)
+1. [Rotate Image](https://leetcode.com/problems/rotate-image/description)
+2. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description)
 
 ## Hard questions
 1. [Merge Without Extra Space](https://www.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1)
