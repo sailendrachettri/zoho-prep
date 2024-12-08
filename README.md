@@ -10,5 +10,9 @@
 4. [Reverse Words](https://www.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1)
 
 
-# Hard questions
+
+## Medium questions
+1. [48. Rotate Image](https://leetcode.com/problems/rotate-image/description)
+
+## Hard questions
 1. [Merge Without Extra Space](https://www.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1)
