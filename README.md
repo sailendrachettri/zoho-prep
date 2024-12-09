@@ -8,6 +8,7 @@
 2. [Bitonic Generator Sort](https://www.geeksforgeeks.org/problems/bitonic-generator-sort3343/1)
 3. [Check for subsequence](https://www.geeksforgeeks.org/problems/check-for-subsequence4930/1)
 4. [Reverse Words](https://www.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1)
+5. [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description)
 
 
 
